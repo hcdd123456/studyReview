@@ -1,4 +1,4 @@
-package test;
+package threadTest;
 
 /**
  *同步代码块

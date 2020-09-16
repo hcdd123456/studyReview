@@ -1,4 +1,4 @@
-package test;
+package threadTest;
 
 /**
  * @author hc
