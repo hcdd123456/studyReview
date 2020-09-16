@@ -2,13 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a67e3fc1-62a0-4650-a847-9a0423c08e39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/Deduplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/FindMaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/stack/SortStackByStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/string/IsDeformatio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/code/GetMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/code/TwoStacksQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/review/Deduplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/study01/review/Deduplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadTest3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/ThreadTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Windows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Windows2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Windows3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/Windows4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/study01/test/hungry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/GetMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/stack/GetMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/TwoStacksQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/stack/TwoStacksQueue.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +43,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/GetMin.java">
+        <entry file="file://$PROJECT_DIR$/src/code/stack/GetMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -35,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/src/review/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -44,16 +64,25 @@
         <entry file="file://$PROJECT_DIR$/src/review/BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/TwoStacksQueue.java">
+        <entry file="file://$PROJECT_DIR$/src/code/stack/TwoStacksQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/code/string/IsDeformatio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -62,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/review/FindMaxNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="42" />
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -71,50 +100,37 @@
         <entry file="file://$PROJECT_DIR$/src/review/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/AccountTest.java">
+        <entry file="file://$PROJECT_DIR$/src/threadTest/AccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/code/stack/SortStackByStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/review/Deduplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="342">
+              <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="1502" column="27" selection-start-line="1502" selection-start-column="27" selection-end-line="1502" selection-end-column="27" />
-              <folding>
-                <element signature="e#99118#99119#0" expanded="true" />
-                <element signature="e#99175#99176#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -157,6 +173,9 @@
         <option value="$PROJECT_DIR$/src/review/FindMaxNum.java" />
         <option value="$PROJECT_DIR$/src/review/Reverse.java" />
         <option value="$PROJECT_DIR$/src/review/Deduplication.java" />
+        <option value="$PROJECT_DIR$/src/code/SortStackByStack.java" />
+        <option value="$PROJECT_DIR$/src/code/stack/TwoStacksQueue.java" />
+        <option value="$PROJECT_DIR$/src/code/string/IsDeformatio.java" />
       </list>
     </option>
   </component>
@@ -175,7 +194,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="width" value="960" />
     <option name="height" value="1033" />
   </component>
@@ -204,13 +223,7 @@
               <item name="study01" type="b2602c69:ProjectViewProjectNode" />
               <item name="study01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="review" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,33 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Deduplication">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review.BinarySearch" />
-      <module name="study01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review.BubbleSort" />
-      <module name="study01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="review.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.IsDeformatio">
     <configuration name="Deduplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="review.Deduplication" />
       <module name="study01" />
@@ -299,6 +286,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IsDeformatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.string.IsDeformatio" />
+      <module name="study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="review.Reverse" />
       <module name="study01" />
@@ -312,13 +312,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortStackByStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.stack.SortStackByStack" />
+      <module name="study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsDeformatio" />
+        <item itemvalue="Application.SortStackByStack" />
         <item itemvalue="Application.Deduplication" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.FindMaxNum" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +354,7 @@
       <workItem from="1600066109836" duration="673000" />
       <workItem from="1600073872799" duration="2847000" />
       <workItem from="1600099309728" duration="1465000" />
-      <workItem from="1600238909796" duration="4456000" />
+      <workItem from="1600238909796" duration="9878000" />
     </task>
     <task id="LOCAL-00001" summary="多线程复习题">
       <created>1599570637521</created>
@@ -364,25 +377,39 @@
       <option name="project" value="LOCAL" />
       <updated>1600100743805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="编程练习">
+      <created>1600243505565</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600243505566</updated>
+    </task>
+    <task id="LOCAL-00005" summary="编程练习">
+      <created>1600243745419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600243745419</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24892000" />
+    <option name="totallyTimeSpent" value="30314000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <frame x="0" y="0" width="768" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.33145276" visible="true" weight="0.122654155" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.33145276" visible="true" weight="0.07464789" />
       <window_info id="Structure" order="1" sideWeight="0.6685473" side_tool="true" weight="0.1769437" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3079096" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21181557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39913544" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -412,7 +439,8 @@
     <MESSAGE value="多线程复习题" />
     <MESSAGE value="编程练习——栈" />
     <MESSAGE value="编程练习——栈2" />
-    <option name="LAST_COMMIT_MESSAGE" value="编程练习——栈2" />
+    <MESSAGE value="编程练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="编程练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
@@ -443,21 +471,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadDemo1.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
@@ -471,14 +499,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="703">
           <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadTest2.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
@@ -492,21 +520,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/hungry.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/hungry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadTest3.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadTest3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/ThreadTest4.java">
+    <entry file="file://$PROJECT_DIR$/src/threadTest/ThreadTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
@@ -541,59 +569,73 @@
     <entry file="file://$PROJECT_DIR$/src/review/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/review/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/review/Reverse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/code/GetMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/code/TwoStacksQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/review/FindMaxNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="42" />
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/review/Deduplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="342">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadTest/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/stack/GetMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/stack/SortStackByStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/stack/TwoStacksQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/code/string/IsDeformatio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
         </state>
       </provider>
     </entry>
