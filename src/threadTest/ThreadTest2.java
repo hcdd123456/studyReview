@@ -15,14 +15,17 @@ public class ThreadTest2 {
         Windows2 w1 = new Windows2();
         Windows2 w2 = new Windows2();
         Windows2 w3 = new Windows2();
+        Windows2 w4 = new Windows2();
 
         w1.setName("窗口1:");
         w2.setName("窗口2:");
         w3.setName("窗口3:");
+        w4.setName("窗口4:");
 
         w1.start();
         w2.start();
         w3.start();
+        w4.start();
     }
 
 }

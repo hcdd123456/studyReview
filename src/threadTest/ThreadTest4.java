@@ -12,14 +12,17 @@ public class ThreadTest4 {
         Thread t1 = new Thread(windows4);
         Thread t2 = new Thread(windows4);
         Thread t3 = new Thread(windows4);
+        Thread t4 = new Thread(windows4);
 
         t1.setName("窗口1");
         t2.setName("窗口2");
         t3.setName("窗口3");
+        t4.setName("窗口4");
 
         t1.start();
         t2.start();
         t3.start();
+        t4.start();
     }
 }
 
