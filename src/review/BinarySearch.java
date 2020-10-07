@@ -13,7 +13,7 @@ public class BinarySearch {
 
         int a[]={2,5,8,9,10,12};
         //查询条件
-        int key = 5;
+        int key = 6;
 
         int low = 0;
         int high = a.length - 1;
