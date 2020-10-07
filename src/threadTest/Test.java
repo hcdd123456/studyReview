@@ -14,14 +14,19 @@ public class Test {
                 throw new Exception("数字不合法，抛出异常");
             }
         }
+        int a =1;
+        int b;
 
     public static void main(String[] args) {
-        Test test = new Test();
-        try {
-            test.f();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+            int z = 1;
+            Test test = new Test();
+        System.out.println(test.a+test.b+z);
+//        Test test = new Test();
+//        try {
+//            test.f();
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
     }
 
 }
