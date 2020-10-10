@@ -35,14 +35,32 @@ public class ReverseString {
         }
         return  null;
     }
+    //方案二改进使用SpringBuffer or SpringBuilder
+    public StringBuilder resverse2(String str ,int startIndex,int endIndex){
+        StringBuilder s = new StringBuilder(str.length());
+        if(str != null && str != ""){
+            s.append(str.substring(0, startIndex));
+            for (int i = endIndex; i >= startIndex; i--) {
+                s.append(str.charAt(i));
+            }
+            s.append(str.substring(endIndex + 1));
+            return s;
+        }
+        return null;
+    }
 
     public static void main(String[] args) {
         ReverseString re = new ReverseString();
         String s = re.resverse("avcdff", 2, 5);
         System.out.println(s);
+
         ReverseString re1 = new ReverseString();
         String s1 = re1.resverse1("avcdff", 2, 5);
         System.out.println(s1);
+
+        ReverseString re2 = new ReverseString();
+        StringBuilder s2 = re2.resverse2("avcdcff", 2, 5);
+        System.out.println(s2);
     }
 
 }
